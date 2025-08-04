@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//fancywin.site/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://fancywin.site/blocks/footer/</loc>
+		<lastmod>2024-11-30T06:41:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fancywin.site/wp-content/uploads/2024/09/logo.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://fancywin.site/wp-content/uploads/2024/09/%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%80-%E0%A6%9C%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://fancywin.site/wp-content/uploads/2024/09/license-fancywin.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://fancywin.site/wp-content/uploads/2024/09/bank-2.webp</image:loc>
+		</image:image>
+	</url>
+</urlset>
